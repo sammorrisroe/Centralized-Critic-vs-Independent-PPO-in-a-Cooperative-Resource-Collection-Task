@@ -1,0 +1,65 @@
+{
+    "Collector": {
+        "checkpoints": [
+            {
+                "steps": 3999984,
+                "file_path": "results/poca_run1/Collector/Collector-3999984.onnx",
+                "reward": -3.0000002086162567,
+                "creation_time": 1774915928.847245,
+                "auxillary_file_paths": [
+                    "results/poca_run1/Collector/Collector-3999984.pt"
+                ]
+            },
+            {
+                "steps": 4000112,
+                "file_path": "results/poca_run1/Collector/Collector-4000112.onnx",
+                "reward": -3.0000002086162567,
+                "creation_time": 1774915928.9073431,
+                "auxillary_file_paths": [
+                    "results/poca_run1/Collector/Collector-4000112.pt"
+                ]
+            },
+            {
+                "steps": 4499952,
+                "file_path": "results/poca_run1/Collector/Collector-4499952.onnx",
+                "reward": -3.0000002086162567,
+                "creation_time": 1776698118.895324,
+                "auxillary_file_paths": [
+                    "results/poca_run1/Collector/Collector-4499952.pt"
+                ]
+            },
+            {
+                "steps": 4999968,
+                "file_path": "results/poca_run1/Collector/Collector-4999968.onnx",
+                "reward": -3.0000002086162567,
+                "creation_time": 1776699400.1240268,
+                "auxillary_file_paths": [
+                    "results/poca_run1/Collector/Collector-4999968.pt"
+                ]
+            },
+            {
+                "steps": 5000096,
+                "file_path": "results/poca_run1/Collector/Collector-5000096.onnx",
+                "reward": -3.0000002086162567,
+                "creation_time": 1776699400.195981,
+                "auxillary_file_paths": [
+                    "results/poca_run1/Collector/Collector-5000096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000096,
+            "file_path": "results/poca_run1/Collector.onnx",
+            "reward": -3.0000002086162567,
+            "creation_time": 1776699400.195981,
+            "auxillary_file_paths": [
+                "results/poca_run1/Collector/Collector-5000096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1"
+    }
+}

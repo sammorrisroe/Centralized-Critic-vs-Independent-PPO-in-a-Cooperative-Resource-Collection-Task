@@ -1,0 +1,65 @@
+{
+    "Collector": {
+        "checkpoints": [
+            {
+                "steps": 4000112,
+                "file_path": "results/ppo_run1/Collector/Collector-4000112.onnx",
+                "reward": 14.26666671037674,
+                "creation_time": 1774914816.84296,
+                "auxillary_file_paths": [
+                    "results/ppo_run1/Collector/Collector-4000112.pt"
+                ]
+            },
+            {
+                "steps": 4000240,
+                "file_path": "results/ppo_run1/Collector/Collector-4000240.onnx",
+                "reward": null,
+                "creation_time": 1776696587.230145,
+                "auxillary_file_paths": [
+                    "results/ppo_run1/Collector/Collector-4000240.pt"
+                ]
+            },
+            {
+                "steps": 4499952,
+                "file_path": "results/ppo_run1/Collector/Collector-4499952.onnx",
+                "reward": 14.233333458503088,
+                "creation_time": 1776697845.4477801,
+                "auxillary_file_paths": [
+                    "results/ppo_run1/Collector/Collector-4499952.pt"
+                ]
+            },
+            {
+                "steps": 4999968,
+                "file_path": "results/ppo_run1/Collector/Collector-4999968.onnx",
+                "reward": 16.433333615461986,
+                "creation_time": 1776698995.314601,
+                "auxillary_file_paths": [
+                    "results/ppo_run1/Collector/Collector-4999968.pt"
+                ]
+            },
+            {
+                "steps": 5000096,
+                "file_path": "results/ppo_run1/Collector/Collector-5000096.onnx",
+                "reward": 16.433333615461986,
+                "creation_time": 1776698995.373735,
+                "auxillary_file_paths": [
+                    "results/ppo_run1/Collector/Collector-5000096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000096,
+            "file_path": "results/ppo_run1/Collector.onnx",
+            "reward": 16.433333615461986,
+            "creation_time": 1776698995.373735,
+            "auxillary_file_paths": [
+                "results/ppo_run1/Collector/Collector-5000096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1"
+    }
+}

@@ -1,0 +1,42 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# macOS
+.DS_Store
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.tmp
+*.booproj
+*.svd
+
+# Python virtual environments
+venv/
+.venv/
+env/
+rl-env/
+rl39-env/
+rl399-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Unity builds
+*.app
+*.exe
+*.x86_64
+
+
+results/**/events.out.tfevents.*
