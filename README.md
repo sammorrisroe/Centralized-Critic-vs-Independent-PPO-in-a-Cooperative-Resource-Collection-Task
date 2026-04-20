@@ -5,7 +5,7 @@ This project compares:
 - MA-POCA
 
 ## Requirements
-- Unity version: [your Unity version]
+- Unity version: 6000.0.33f1
 - Python: 3.9
 - ml-agents: 0.28.0
 - ml-agents-envs: 0.28.0
